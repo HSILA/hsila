@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![My GitHub stats](https://github-readme-stats-smoky-nine-99.vercel.app/api?username=hsila)](https://github.com/HSILA/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats-smoky-nine-99.vercel.app/api?username=hsila&show_icons=true&theme=holi&hide_rank=true&include_all_commits=true#gh-dark-mode-only)](https://github.com/HSILA/github-readme-stats#gh-dark-mode-only)
+[![My GitHub stats](https://github-readme-stats-smoky-nine-99.vercel.app/api?username=hsila&show_icons=true&theme=graywhite&hide_rank=true&include_all_commits=true#gh-light-mode-only)](https://github.com/HSILA/github-readme-stats#gh-light-mode-only)
+
 ![Top Languages](https://github-readme-stats-smoky-nine-99.vercel.app/api/top-langs/?username=hsila&layout=compact)
 
 <!--
