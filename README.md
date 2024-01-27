@@ -1,5 +1,7 @@
 ### Hi there 👋
 [![My GitHub stats](https://github-readme-stats-smoky-nine-99.vercel.app/api?username=hsila)](https://github.com/HSILA/github-readme-stats)
+![Top Languages](https://github-readme-stats-smoky-nine-99.vercel.app/api/top-langs/?username=hsila&layout=compact)
+
 <!--
 **HSILA/hsila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
